@@ -1,0 +1,7 @@
+
+Superstore Sales Dashboard – Key Insights
+
+1. The West region consistently led in total sales, particularly in Q4 2023.
+2. Technology category generated the highest profit margins across all regions.
+3. December showed the strongest sales performance, likely due to seasonal spikes.
+4. Corporate segment had the highest average order value, suggesting a strong B2B presence.

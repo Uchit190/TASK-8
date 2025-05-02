@@ -1,0 +1,501 @@
+Order ID,Order Date,Region,Segment,Category,Sales,Profit,Quantity,Discount,Shipping Mode
+ORD-1000,8/4/2023,West,Corporate,Office Supplies,1330.89,251.15,3,0.2,Standard Class
+ORD-1001,6/29/2023,South,Consumer,Furniture,1303.98,191.46,7,0,First Class
+ORD-1002,1/12/2023,Central,Home Office,Furniture,1490.62,317.82,6,0.2,Second Class
+ORD-1003,5/23/2023,South,Corporate,Furniture,946.33,174.97,9,0.2,Second Class
+ORD-1004,7/7/2023,Central,Home Office,Office Supplies,1583.22,171.85,9,0.2,Second Class
+ORD-1005,10/25/2023,South,Consumer,Furniture,366.66,63.37,7,0.2,First Class
+ORD-1006,1/13/2023,East,Home Office,Technology,837.56,54.92,8,0.2,First Class
+ORD-1007,9/2/2023,West,Corporate,Furniture,659.78,226.31,4,0.1,Second Class
+ORD-1008,11/10/2023,East,Home Office,Furniture,126.32,25.19,6,0,Same Day
+ORD-1009,5/6/2023,South,Consumer,Office Supplies,508.37,36.01,4,0.1,Same Day
+ORD-1010,11/21/2023,East,Consumer,Office Supplies,1150.73,368.59,10,0.3,Same Day
+ORD-1011,9/6/2023,Central,Home Office,Furniture,1903.83,662.27,4,0.3,Standard Class
+ORD-1012,6/7/2023,East,Corporate,Office Supplies,1297.65,270.05,5,0.1,Same Day
+ORD-1013,8/8/2023,Central,Consumer,Office Supplies,887.36,103.86,6,0.2,Second Class
+ORD-1014,2/18/2023,East,Consumer,Technology,1234.92,277.13,6,0,First Class
+ORD-1015,6/24/2023,East,Home Office,Furniture,731.06,228.74,8,0,Standard Class
+ORD-1016,12/22/2023,South,Home Office,Furniture,1948.04,655.04,10,0.3,Standard Class
+ORD-1017,11/21/2023,East,Consumer,Office Supplies,713.79,144.6,9,0.1,First Class
+ORD-1018,1/26/2023,West,Corporate,Office Supplies,820.69,283.61,8,0,First Class
+ORD-1019,10/14/2023,Central,Consumer,Technology,1412.44,250.54,6,0.2,First Class
+ORD-1020,11/6/2023,Central,Home Office,Technology,1482.2,153.26,10,0.1,First Class
+ORD-1021,3/1/2023,Central,Home Office,Furniture,357.54,43.79,10,0,First Class
+ORD-1022,4/17/2023,South,Consumer,Office Supplies,924.78,135.54,4,0.3,Same Day
+ORD-1023,5/3/2023,Central,Corporate,Office Supplies,1993.02,287.6,4,0.1,Same Day
+ORD-1024,10/27/2023,West,Corporate,Office Supplies,827.95,276.14,4,0.2,Second Class
+ORD-1025,1/31/2023,Central,Consumer,Technology,1875.67,606.06,1,0.2,Same Day
+ORD-1026,4/28/2023,South,Corporate,Office Supplies,1077.18,223.26,4,0.3,Second Class
+ORD-1027,6/9/2023,West,Corporate,Office Supplies,511.56,81.86,8,0.2,Second Class
+ORD-1028,2/24/2023,South,Home Office,Furniture,1805.44,369.18,4,0.2,Second Class
+ORD-1029,5/26/2023,Central,Corporate,Technology,211.88,67.66,2,0.3,Same Day
+ORD-1030,7/7/2023,Central,Consumer,Furniture,1505.35,319.11,2,0,Second Class
+ORD-1031,5/11/2023,West,Home Office,Furniture,1100.27,260.05,2,0.1,Second Class
+ORD-1032,9/1/2023,South,Consumer,Furniture,170.65,47.57,10,0.2,Second Class
+ORD-1033,10/7/2023,East,Home Office,Technology,1802.87,128.05,9,0.1,Same Day
+ORD-1034,1/17/2023,East,Home Office,Furniture,494.68,172.44,1,0.2,Standard Class
+ORD-1035,2/10/2023,West,Consumer,Furniture,1646.28,197.42,6,0.1,Second Class
+ORD-1036,12/18/2023,West,Corporate,Furniture,1831.41,487.91,9,0,Same Day
+ORD-1037,12/8/2023,South,Home Office,Office Supplies,1423.8,297.45,8,0.3,Second Class
+ORD-1038,2/8/2023,South,Consumer,Technology,834.23,123.6,7,0.1,Second Class
+ORD-1039,3/22/2023,West,Consumer,Technology,1235.42,420.1,4,0.1,Same Day
+ORD-1040,3/7/2023,Central,Consumer,Technology,671.25,122.58,5,0,First Class
+ORD-1041,5/5/2023,South,Corporate,Technology,986.41,299.25,10,0.3,Second Class
+ORD-1042,6/24/2023,South,Consumer,Furniture,541.25,66.66,8,0.2,Same Day
+ORD-1043,11/9/2023,East,Home Office,Office Supplies,1604.05,469.83,8,0,Same Day
+ORD-1044,1/16/2023,West,Home Office,Furniture,123.95,33.73,10,0,Standard Class
+ORD-1045,7/26/2023,Central,Home Office,Technology,1476.77,491.13,9,0.3,Standard Class
+ORD-1046,5/2/2023,West,Home Office,Office Supplies,144.76,34.67,10,0.1,Standard Class
+ORD-1047,10/9/2023,Central,Consumer,Furniture,1894.82,260.51,7,0,Second Class
+ORD-1048,7/29/2023,West,Consumer,Furniture,1177.63,361.77,2,0.1,Standard Class
+ORD-1049,3/17/2023,West,Consumer,Technology,961.13,131.84,6,0,Second Class
+ORD-1050,12/8/2023,East,Consumer,Furniture,634.43,148.07,6,0.3,Second Class
+ORD-1051,9/10/2023,South,Home Office,Furniture,400.74,33.31,10,0.1,Second Class
+ORD-1052,8/18/2023,West,Home Office,Office Supplies,441.02,125.42,6,0.1,First Class
+ORD-1053,8/21/2023,Central,Consumer,Technology,221.2,73.98,5,0.1,Second Class
+ORD-1054,6/25/2023,Central,Corporate,Technology,1958.73,539.65,3,0.3,Standard Class
+ORD-1055,7/3/2023,Central,Corporate,Office Supplies,595.14,89.89,6,0.3,Second Class
+ORD-1056,3/22/2023,South,Corporate,Office Supplies,697.47,143.07,3,0.2,Second Class
+ORD-1057,1/30/2023,West,Consumer,Office Supplies,1558.33,305.82,5,0.3,Second Class
+ORD-1058,1/30/2023,South,Consumer,Office Supplies,1708.09,362.11,8,0.1,First Class
+ORD-1059,12/3/2023,Central,Home Office,Office Supplies,1601.23,483.94,9,0,Second Class
+ORD-1060,6/23/2023,West,Corporate,Furniture,1163.76,153.33,7,0,Same Day
+ORD-1061,11/13/2023,South,Consumer,Office Supplies,142.14,7.6,8,0.1,Second Class
+ORD-1062,1/11/2023,West,Home Office,Furniture,1464.05,247.04,2,0.2,Same Day
+ORD-1063,3/25/2023,Central,Consumer,Technology,802.85,262.52,4,0.1,First Class
+ORD-1064,1/5/2023,South,Home Office,Office Supplies,925.19,166.61,7,0,First Class
+ORD-1065,2/8/2023,South,Consumer,Office Supplies,1265.46,330.97,7,0.2,Same Day
+ORD-1066,8/10/2023,East,Consumer,Office Supplies,1911.51,117.06,9,0.2,First Class
+ORD-1067,8/30/2023,East,Consumer,Furniture,1708.02,194.21,8,0,First Class
+ORD-1068,6/18/2023,West,Consumer,Technology,1100.55,312.46,4,0.3,Standard Class
+ORD-1069,1/18/2023,East,Consumer,Furniture,1845.23,583.75,1,0.3,Second Class
+ORD-1070,12/19/2023,West,Corporate,Office Supplies,928.31,239.03,6,0.3,First Class
+ORD-1071,2/23/2023,Central,Corporate,Office Supplies,1991.51,593.91,3,0,Same Day
+ORD-1072,6/18/2023,South,Corporate,Office Supplies,1067.63,175.39,4,0,First Class
+ORD-1073,4/3/2023,South,Home Office,Furniture,1690.6,496.89,3,0.1,Same Day
+ORD-1074,12/20/2023,South,Consumer,Office Supplies,1529.6,356.64,10,0.1,Second Class
+ORD-1075,5/4/2023,West,Consumer,Furniture,1250.83,176.96,10,0,Second Class
+ORD-1076,3/29/2023,East,Home Office,Furniture,1011.29,308.27,1,0.1,Second Class
+ORD-1077,7/29/2023,West,Consumer,Furniture,1142.04,266.36,4,0.3,Standard Class
+ORD-1078,9/7/2023,West,Corporate,Office Supplies,268.89,81.53,5,0.3,Standard Class
+ORD-1079,12/10/2023,South,Home Office,Office Supplies,159.03,30.56,10,0.2,First Class
+ORD-1080,10/18/2023,East,Consumer,Office Supplies,1084.14,164.72,6,0.1,Standard Class
+ORD-1081,8/23/2023,West,Corporate,Technology,1581.42,317.44,7,0.3,Second Class
+ORD-1082,12/15/2023,West,Consumer,Furniture,1393.49,171.95,10,0.3,First Class
+ORD-1083,10/21/2023,Central,Home Office,Office Supplies,1079.64,339.12,7,0.2,Standard Class
+ORD-1084,3/17/2023,East,Corporate,Technology,1412.54,301.54,1,0.2,Second Class
+ORD-1085,4/24/2023,East,Consumer,Furniture,269.47,43.68,4,0.2,Standard Class
+ORD-1086,9/24/2023,Central,Corporate,Office Supplies,1380.29,253.45,10,0.2,Standard Class
+ORD-1087,9/29/2023,East,Corporate,Furniture,1732.14,341.25,5,0,First Class
+ORD-1088,11/27/2023,South,Corporate,Furniture,1761.45,607.1,6,0.2,Second Class
+ORD-1089,2/5/2023,East,Corporate,Office Supplies,544.03,65.22,9,0.1,First Class
+ORD-1090,8/30/2023,West,Corporate,Furniture,1949.88,594.11,7,0.3,Second Class
+ORD-1091,5/1/2023,West,Corporate,Technology,1634.21,295.62,2,0.2,Second Class
+ORD-1092,1/13/2023,West,Home Office,Furniture,1338.15,163.71,5,0.3,Standard Class
+ORD-1093,3/14/2023,South,Home Office,Furniture,545.11,120.78,6,0.2,Same Day
+ORD-1094,10/26/2023,Central,Home Office,Office Supplies,839.63,70.61,3,0.1,First Class
+ORD-1095,2/11/2023,East,Consumer,Office Supplies,319.32,23.23,9,0.1,Same Day
+ORD-1096,2/16/2023,South,Corporate,Furniture,511.72,61.95,2,0,Same Day
+ORD-1097,1/17/2023,East,Consumer,Office Supplies,1415.03,433.04,6,0.3,Standard Class
+ORD-1098,9/27/2023,East,Home Office,Technology,1424.56,199.15,3,0,Same Day
+ORD-1099,9/25/2023,Central,Home Office,Furniture,1045.7,208.33,1,0.2,First Class
+ORD-1100,12/28/2023,East,Consumer,Technology,1782.56,583.75,6,0.1,Second Class
+ORD-1101,2/13/2023,East,Corporate,Furniture,414.87,48.82,2,0.3,First Class
+ORD-1102,4/29/2023,Central,Consumer,Technology,745.41,230.46,5,0.1,Same Day
+ORD-1103,11/6/2023,West,Home Office,Office Supplies,174.15,54.17,7,0.2,Second Class
+ORD-1104,10/21/2023,South,Corporate,Furniture,354.1,82.96,9,0,First Class
+ORD-1105,1/16/2023,Central,Consumer,Furniture,713.92,172.1,10,0,Standard Class
+ORD-1106,12/30/2023,West,Consumer,Technology,1652.59,271.64,8,0.3,Standard Class
+ORD-1107,8/24/2023,South,Home Office,Furniture,629.63,164.95,7,0.2,Second Class
+ORD-1108,5/7/2023,Central,Consumer,Office Supplies,522.89,178.64,7,0.2,First Class
+ORD-1109,2/25/2023,Central,Corporate,Furniture,1236.49,189.03,9,0,Same Day
+ORD-1110,3/3/2023,West,Corporate,Technology,932.53,106.59,4,0,Second Class
+ORD-1111,6/18/2023,East,Corporate,Office Supplies,1375.56,351.57,2,0.2,Second Class
+ORD-1112,12/12/2023,Central,Corporate,Technology,617.48,108.91,10,0.2,First Class
+ORD-1113,10/21/2023,South,Home Office,Technology,1746.76,424.29,8,0.2,Same Day
+ORD-1114,4/5/2023,Central,Home Office,Furniture,681.95,153.43,1,0.3,Same Day
+ORD-1115,10/20/2023,East,Home Office,Furniture,515.58,96.34,4,0.3,First Class
+ORD-1116,3/2/2023,Central,Corporate,Technology,1786.37,115.85,8,0.2,Second Class
+ORD-1117,4/19/2023,Central,Consumer,Office Supplies,1845.43,321.38,3,0.1,First Class
+ORD-1118,7/11/2023,East,Home Office,Office Supplies,1075.84,320.65,3,0,Second Class
+ORD-1119,4/24/2023,West,Home Office,Office Supplies,319.98,19.21,10,0,First Class
+ORD-1120,8/24/2023,West,Consumer,Furniture,656.68,92.35,9,0.1,Same Day
+ORD-1121,11/3/2023,West,Corporate,Office Supplies,539.28,77.98,7,0,Standard Class
+ORD-1122,12/9/2023,East,Home Office,Office Supplies,580.14,181.24,3,0.1,Standard Class
+ORD-1123,4/4/2023,Central,Corporate,Furniture,1465.75,282.33,3,0.3,Standard Class
+ORD-1124,9/19/2023,Central,Corporate,Technology,1917.81,220.77,3,0,Standard Class
+ORD-1125,9/20/2023,East,Home Office,Furniture,850.3,100.84,2,0.1,Second Class
+ORD-1126,11/2/2023,West,Consumer,Technology,294.75,51.75,8,0.2,Standard Class
+ORD-1127,3/18/2023,Central,Corporate,Furniture,124.75,22.88,2,0.1,Standard Class
+ORD-1128,10/13/2023,South,Corporate,Technology,793.51,163.6,5,0,Second Class
+ORD-1129,11/7/2023,West,Corporate,Furniture,571.54,143.14,4,0.1,Standard Class
+ORD-1130,2/17/2023,West,Home Office,Office Supplies,954.05,275.26,3,0.1,Standard Class
+ORD-1131,7/18/2023,Central,Consumer,Office Supplies,204.9,22.49,10,0.2,Standard Class
+ORD-1132,10/6/2023,Central,Consumer,Technology,385.08,50.28,9,0.2,Standard Class
+ORD-1133,12/26/2023,South,Consumer,Furniture,1049.88,90.4,9,0.2,Second Class
+ORD-1134,2/10/2023,Central,Home Office,Furniture,221.97,49.03,7,0.1,First Class
+ORD-1135,9/18/2023,South,Consumer,Technology,1888.43,308.28,6,0.2,Same Day
+ORD-1136,8/23/2023,West,Corporate,Technology,1901.11,459.6,9,0.1,Same Day
+ORD-1137,6/26/2023,South,Home Office,Office Supplies,288.5,37.23,7,0,Second Class
+ORD-1138,3/16/2023,East,Home Office,Furniture,1753.78,319.13,1,0.2,Standard Class
+ORD-1139,6/6/2023,South,Consumer,Furniture,890.29,134.85,4,0.3,First Class
+ORD-1140,4/30/2023,South,Corporate,Office Supplies,602.18,183.96,1,0.3,Same Day
+ORD-1141,4/25/2023,West,Corporate,Technology,162.67,47.56,1,0,First Class
+ORD-1142,11/20/2023,West,Consumer,Office Supplies,528.3,132.67,1,0,Same Day
+ORD-1143,7/19/2023,West,Home Office,Office Supplies,1882.52,422.31,10,0.3,Standard Class
+ORD-1144,12/18/2023,South,Home Office,Technology,925.27,251.65,7,0,Standard Class
+ORD-1145,10/26/2023,West,Consumer,Furniture,1579.11,328.59,10,0.3,Same Day
+ORD-1146,9/21/2023,Central,Corporate,Furniture,572.89,193.94,2,0.2,First Class
+ORD-1147,2/27/2023,South,Consumer,Technology,1597.41,339.44,8,0.2,Standard Class
+ORD-1148,3/3/2023,East,Home Office,Furniture,1690.7,114.66,10,0.3,First Class
+ORD-1149,3/1/2023,South,Corporate,Office Supplies,804.57,180.56,5,0.3,Standard Class
+ORD-1150,1/27/2023,Central,Corporate,Technology,666.61,77.14,6,0,Same Day
+ORD-1151,10/29/2023,South,Home Office,Furniture,1006.84,326.03,3,0.1,Standard Class
+ORD-1152,9/10/2023,East,Home Office,Furniture,1905.77,374.07,8,0.1,Same Day
+ORD-1153,9/21/2023,South,Home Office,Technology,1437.99,303.59,6,0.1,Second Class
+ORD-1154,6/23/2023,West,Home Office,Office Supplies,1522.66,293.74,7,0.3,Second Class
+ORD-1155,8/30/2023,South,Consumer,Office Supplies,1435.03,499.13,10,0.2,Second Class
+ORD-1156,4/14/2023,Central,Home Office,Office Supplies,1812.66,295.03,9,0,Same Day
+ORD-1157,11/21/2023,East,Consumer,Technology,455.28,138.27,3,0.2,Standard Class
+ORD-1158,10/30/2023,South,Corporate,Office Supplies,1394.16,402.52,1,0.3,First Class
+ORD-1159,4/28/2023,East,Consumer,Office Supplies,976.09,259.66,1,0.1,Second Class
+ORD-1160,8/23/2023,East,Consumer,Technology,973.56,165.09,4,0,Same Day
+ORD-1161,11/3/2023,West,Corporate,Office Supplies,1435.32,213.9,7,0.1,Standard Class
+ORD-1162,12/26/2023,East,Corporate,Technology,1912.14,654.92,2,0.1,Second Class
+ORD-1163,6/4/2023,Central,Home Office,Furniture,862.72,167.34,8,0,Same Day
+ORD-1164,5/25/2023,Central,Home Office,Technology,1879.69,376.57,1,0,Same Day
+ORD-1165,6/7/2023,West,Home Office,Office Supplies,568.29,40.49,6,0.2,Same Day
+ORD-1166,4/5/2023,South,Home Office,Office Supplies,274.32,90.43,1,0,Standard Class
+ORD-1167,2/16/2023,South,Corporate,Technology,1969.91,604.07,3,0.2,Standard Class
+ORD-1168,8/2/2023,Central,Home Office,Office Supplies,621.23,88.77,8,0.1,Same Day
+ORD-1169,10/12/2023,West,Consumer,Technology,341.08,77.44,10,0.2,Second Class
+ORD-1170,11/28/2023,South,Home Office,Office Supplies,1904.71,472.17,10,0,Second Class
+ORD-1171,11/3/2023,West,Corporate,Furniture,943.94,107.14,7,0,Second Class
+ORD-1172,11/25/2023,West,Corporate,Furniture,397.69,80.9,5,0.1,Standard Class
+ORD-1173,7/14/2023,Central,Consumer,Furniture,656.85,55.94,6,0.3,First Class
+ORD-1174,5/6/2023,East,Home Office,Technology,753.15,233.34,3,0.1,Second Class
+ORD-1175,7/12/2023,East,Home Office,Furniture,972.98,248.66,2,0.1,Standard Class
+ORD-1176,8/11/2023,Central,Corporate,Furniture,298.38,75.87,8,0.2,Second Class
+ORD-1177,2/13/2023,South,Corporate,Furniture,1568.23,353.36,4,0.2,Same Day
+ORD-1178,8/20/2023,East,Home Office,Office Supplies,1248.67,274.95,5,0,Standard Class
+ORD-1179,7/29/2023,West,Corporate,Technology,121.02,38.3,10,0.1,Same Day
+ORD-1180,1/30/2023,Central,Corporate,Furniture,1688.29,194.58,5,0,Standard Class
+ORD-1181,4/15/2023,South,Home Office,Office Supplies,1365.14,293.06,8,0.3,Same Day
+ORD-1182,2/27/2023,Central,Consumer,Technology,613.53,53.29,10,0.1,Standard Class
+ORD-1183,2/9/2023,Central,Home Office,Furniture,1473.26,225.69,8,0,Standard Class
+ORD-1184,5/26/2023,East,Consumer,Office Supplies,921.34,68.74,5,0.3,Standard Class
+ORD-1185,5/4/2023,South,Corporate,Office Supplies,723.51,69.25,9,0,Standard Class
+ORD-1186,6/16/2023,East,Home Office,Furniture,153.54,38.5,2,0.3,Second Class
+ORD-1187,9/19/2023,East,Corporate,Furniture,224.99,26.67,5,0.1,Standard Class
+ORD-1188,3/20/2023,South,Consumer,Furniture,1722.53,224.04,4,0.2,Standard Class
+ORD-1189,4/1/2023,West,Consumer,Technology,1074.59,130.31,5,0.1,Standard Class
+ORD-1190,2/14/2023,East,Corporate,Office Supplies,1071.46,325.53,5,0,First Class
+ORD-1191,1/19/2023,West,Home Office,Furniture,268.28,93.7,3,0,Standard Class
+ORD-1192,2/28/2023,West,Corporate,Furniture,1795.32,497.06,1,0.1,Standard Class
+ORD-1193,5/2/2023,Central,Home Office,Technology,1767.45,289.65,1,0.3,Second Class
+ORD-1194,8/26/2023,West,Consumer,Furniture,440.08,72.15,10,0,First Class
+ORD-1195,3/19/2023,Central,Corporate,Furniture,953.86,171,3,0.3,First Class
+ORD-1196,2/28/2023,West,Home Office,Technology,1638.52,438.43,4,0.1,Standard Class
+ORD-1197,9/24/2023,Central,Corporate,Furniture,1457.13,83.41,10,0.2,Same Day
+ORD-1198,10/20/2023,Central,Home Office,Office Supplies,1249.43,252.08,1,0,Second Class
+ORD-1199,9/24/2023,West,Home Office,Office Supplies,1022,299.01,3,0,First Class
+ORD-1200,10/15/2023,Central,Home Office,Office Supplies,360.2,46.31,5,0.1,First Class
+ORD-1201,7/23/2023,East,Home Office,Technology,1088.19,66.33,2,0.3,First Class
+ORD-1202,9/2/2023,Central,Home Office,Office Supplies,1903.23,431.82,7,0,First Class
+ORD-1203,1/11/2023,East,Consumer,Furniture,539.2,99.67,8,0,Same Day
+ORD-1204,8/15/2023,Central,Home Office,Office Supplies,137.39,36.9,10,0,Second Class
+ORD-1205,10/25/2023,South,Consumer,Furniture,188.86,36.74,9,0.1,Standard Class
+ORD-1206,8/5/2023,East,Consumer,Technology,966.1,232.85,9,0,Same Day
+ORD-1207,6/2/2023,East,Consumer,Office Supplies,1186.18,87.77,10,0.3,Same Day
+ORD-1208,3/7/2023,East,Corporate,Office Supplies,1127.7,101.03,8,0.2,Second Class
+ORD-1209,10/24/2023,South,Consumer,Furniture,1515.56,498.48,3,0,Same Day
+ORD-1210,12/5/2023,East,Consumer,Furniture,1977.96,383.37,1,0.3,Second Class
+ORD-1211,9/7/2023,West,Home Office,Furniture,1173.06,152.2,9,0,First Class
+ORD-1212,4/4/2023,Central,Corporate,Furniture,1698.36,249.62,1,0,Second Class
+ORD-1213,4/17/2023,East,Corporate,Technology,1842.16,298.07,4,0.1,Standard Class
+ORD-1214,6/16/2023,West,Corporate,Technology,543.12,113.18,1,0,Same Day
+ORD-1215,2/6/2023,Central,Consumer,Furniture,786.66,87.17,1,0,Same Day
+ORD-1216,2/11/2023,Central,Corporate,Technology,1068.21,371.41,7,0.3,Same Day
+ORD-1217,12/26/2023,East,Home Office,Office Supplies,342.01,64.61,10,0,Same Day
+ORD-1218,12/2/2023,East,Consumer,Furniture,577.84,140.17,3,0,Standard Class
+ORD-1219,5/11/2023,Central,Consumer,Technology,378.63,40.29,4,0.1,First Class
+ORD-1220,11/12/2023,East,Consumer,Office Supplies,973.92,281.61,7,0,First Class
+ORD-1221,9/29/2023,South,Corporate,Furniture,1528.55,380.93,5,0.2,First Class
+ORD-1222,12/18/2023,South,Consumer,Technology,254.4,22.89,4,0.1,Second Class
+ORD-1223,1/13/2023,West,Consumer,Furniture,1455.08,242.73,1,0.3,First Class
+ORD-1224,5/4/2023,West,Corporate,Office Supplies,854.21,287.09,8,0.2,First Class
+ORD-1225,3/25/2023,South,Home Office,Technology,1669.68,487.9,2,0.3,First Class
+ORD-1226,7/14/2023,West,Consumer,Office Supplies,1717.91,499.7,1,0.1,Same Day
+ORD-1227,3/1/2023,Central,Home Office,Technology,373.29,95.58,7,0.2,Standard Class
+ORD-1228,2/5/2023,West,Home Office,Technology,1581.35,337.7,7,0,First Class
+ORD-1229,7/19/2023,South,Corporate,Technology,117.35,21.86,6,0.2,First Class
+ORD-1230,1/20/2023,West,Consumer,Furniture,1954.08,252.84,5,0.1,Same Day
+ORD-1231,5/17/2023,West,Corporate,Technology,1258.65,156.26,6,0.1,Second Class
+ORD-1232,4/18/2023,West,Consumer,Office Supplies,449.35,65.37,9,0.1,First Class
+ORD-1233,10/7/2023,East,Corporate,Furniture,1492.77,464.88,8,0.2,Second Class
+ORD-1234,11/7/2023,East,Consumer,Office Supplies,522.49,179.86,3,0.3,Standard Class
+ORD-1235,12/4/2023,South,Home Office,Furniture,944.48,306.62,8,0.1,First Class
+ORD-1236,11/29/2023,Central,Corporate,Office Supplies,1327.75,213.38,2,0,Same Day
+ORD-1237,9/17/2023,West,Consumer,Office Supplies,1170.56,80.59,2,0.2,First Class
+ORD-1238,8/7/2023,West,Corporate,Technology,1380.29,295.13,9,0.2,Same Day
+ORD-1239,1/23/2023,South,Home Office,Furniture,568.48,92.45,7,0.2,First Class
+ORD-1240,2/8/2023,Central,Corporate,Office Supplies,740.19,111.59,7,0.3,Second Class
+ORD-1241,11/19/2023,West,Home Office,Office Supplies,1863.18,617.03,6,0,Standard Class
+ORD-1242,8/29/2023,South,Corporate,Office Supplies,1513.05,359.86,7,0.2,Same Day
+ORD-1243,5/3/2023,East,Home Office,Furniture,1648.65,258.41,7,0,First Class
+ORD-1244,7/31/2023,West,Home Office,Office Supplies,1909.98,404.21,4,0.2,Second Class
+ORD-1245,5/4/2023,West,Home Office,Furniture,796.22,122.69,10,0.2,Second Class
+ORD-1246,1/16/2023,West,Home Office,Furniture,821.95,96.2,4,0.3,Standard Class
+ORD-1247,11/10/2023,East,Home Office,Technology,1423.79,102.85,1,0.2,First Class
+ORD-1248,5/9/2023,South,Home Office,Furniture,833.95,147.65,5,0.3,Second Class
+ORD-1249,4/21/2023,Central,Corporate,Office Supplies,619.88,101.94,5,0.3,Same Day
+ORD-1250,5/4/2023,South,Consumer,Office Supplies,1509.07,236.29,3,0.2,First Class
+ORD-1251,1/9/2023,South,Home Office,Office Supplies,1795.73,106.44,3,0.1,First Class
+ORD-1252,10/22/2023,Central,Consumer,Office Supplies,959.54,276.66,9,0.1,Standard Class
+ORD-1253,3/15/2023,West,Consumer,Technology,1686.07,400.03,1,0.2,Standard Class
+ORD-1254,9/23/2023,Central,Consumer,Technology,1773.31,333.22,7,0.2,First Class
+ORD-1255,8/12/2023,West,Corporate,Furniture,605.24,35.21,5,0.3,Standard Class
+ORD-1256,5/6/2023,East,Home Office,Technology,682.8,173.4,7,0.3,Same Day
+ORD-1257,5/25/2023,East,Consumer,Technology,1469.54,485.89,3,0.2,Second Class
+ORD-1258,10/5/2023,West,Consumer,Office Supplies,921.85,117.91,9,0,Second Class
+ORD-1259,12/15/2023,West,Home Office,Office Supplies,813.24,172.97,7,0.2,Same Day
+ORD-1260,10/6/2023,South,Home Office,Furniture,1044.53,231.99,5,0.1,First Class
+ORD-1261,9/30/2023,South,Consumer,Technology,379.33,120.49,4,0.2,Same Day
+ORD-1262,6/27/2023,West,Corporate,Office Supplies,599.08,119.75,9,0.1,Same Day
+ORD-1263,3/8/2023,Central,Consumer,Technology,1636.75,384.6,3,0.2,Standard Class
+ORD-1264,12/1/2023,West,Corporate,Office Supplies,1735.74,375.3,1,0.3,Same Day
+ORD-1265,9/4/2023,Central,Home Office,Furniture,648.79,129.43,1,0,Same Day
+ORD-1266,11/21/2023,East,Consumer,Furniture,1436.71,376.19,4,0.3,First Class
+ORD-1267,5/17/2023,West,Consumer,Office Supplies,335.73,92.28,10,0.2,Same Day
+ORD-1268,4/13/2023,South,Home Office,Office Supplies,1810.87,624.72,3,0.2,Same Day
+ORD-1269,12/7/2023,South,Home Office,Office Supplies,405.16,75.53,1,0.3,Same Day
+ORD-1270,8/25/2023,West,Corporate,Technology,456.66,117.75,3,0,Standard Class
+ORD-1271,4/13/2023,Central,Corporate,Office Supplies,299.23,88.3,4,0.3,First Class
+ORD-1272,6/7/2023,East,Home Office,Office Supplies,1497.47,151.79,4,0.3,Same Day
+ORD-1273,11/14/2023,East,Consumer,Technology,390.83,79.22,9,0.3,Standard Class
+ORD-1274,4/7/2023,Central,Consumer,Furniture,1314.78,156.95,8,0.1,First Class
+ORD-1275,12/27/2023,Central,Home Office,Office Supplies,1681.93,223.95,3,0,Second Class
+ORD-1276,5/7/2023,East,Corporate,Technology,1199.49,207.3,10,0.3,Standard Class
+ORD-1277,2/7/2023,South,Corporate,Office Supplies,553.3,136.79,7,0.2,Standard Class
+ORD-1278,9/28/2023,East,Corporate,Office Supplies,498.96,113.45,4,0.1,Second Class
+ORD-1279,12/7/2023,East,Corporate,Technology,482.68,109.74,9,0.2,Second Class
+ORD-1280,8/3/2023,East,Consumer,Technology,122.85,15.5,6,0.3,First Class
+ORD-1281,4/23/2023,Central,Corporate,Furniture,908.4,230,1,0,Second Class
+ORD-1282,2/27/2023,South,Consumer,Technology,599.8,179.61,1,0,First Class
+ORD-1283,11/15/2023,Central,Consumer,Furniture,1780.92,417.9,5,0.2,Second Class
+ORD-1284,5/6/2023,West,Home Office,Office Supplies,1912.58,391.98,8,0.3,Same Day
+ORD-1285,12/17/2023,East,Consumer,Office Supplies,169.97,38.19,4,0.2,First Class
+ORD-1286,3/18/2023,Central,Corporate,Office Supplies,593.52,58.18,4,0,Same Day
+ORD-1287,6/19/2023,East,Corporate,Office Supplies,1312.51,388.6,1,0.2,Same Day
+ORD-1288,2/28/2023,South,Corporate,Technology,538.96,35.42,2,0.3,Same Day
+ORD-1289,8/23/2023,West,Corporate,Furniture,1707.77,176.11,10,0.3,First Class
+ORD-1290,2/15/2023,South,Consumer,Office Supplies,1274.23,199.03,8,0,First Class
+ORD-1291,2/1/2023,Central,Corporate,Technology,1840.43,93.35,7,0.2,Standard Class
+ORD-1292,11/5/2023,East,Home Office,Office Supplies,443.06,155.06,3,0.3,Same Day
+ORD-1293,8/3/2023,South,Home Office,Office Supplies,1561.01,409.29,7,0.1,Same Day
+ORD-1294,11/5/2023,Central,Consumer,Furniture,1445.07,494.73,6,0.2,Standard Class
+ORD-1295,10/2/2023,Central,Home Office,Technology,466.4,82.59,8,0.2,Standard Class
+ORD-1296,12/25/2023,South,Corporate,Office Supplies,1960.68,253.54,3,0,Second Class
+ORD-1297,2/19/2023,West,Consumer,Office Supplies,921.63,100.11,10,0.3,Second Class
+ORD-1298,2/22/2023,East,Corporate,Furniture,185.56,19.4,5,0.1,First Class
+ORD-1299,2/21/2023,West,Consumer,Office Supplies,642.67,199.01,3,0,Standard Class
+ORD-1300,9/15/2023,South,Corporate,Office Supplies,1623.8,329.85,9,0.1,First Class
+ORD-1301,11/25/2023,South,Home Office,Furniture,976.91,102.84,9,0.3,Second Class
+ORD-1302,11/5/2023,East,Home Office,Technology,384.91,27.97,3,0.2,Second Class
+ORD-1303,5/6/2023,South,Corporate,Furniture,100.33,25.64,4,0.2,Same Day
+ORD-1304,3/20/2023,East,Home Office,Technology,736.61,63.83,3,0.1,Second Class
+ORD-1305,7/15/2023,Central,Corporate,Technology,498.21,81.81,7,0,Same Day
+ORD-1306,3/27/2023,South,Home Office,Office Supplies,965.97,134.31,8,0,Same Day
+ORD-1307,6/10/2023,South,Home Office,Office Supplies,965.47,100.57,9,0.2,Same Day
+ORD-1308,3/21/2023,South,Home Office,Technology,1169.8,281.08,9,0.1,Same Day
+ORD-1309,4/21/2023,Central,Corporate,Furniture,238.83,30.45,6,0,Standard Class
+ORD-1310,8/29/2023,South,Home Office,Office Supplies,1379.87,309.04,9,0.3,First Class
+ORD-1311,4/29/2023,South,Consumer,Furniture,1022.94,185.52,7,0,First Class
+ORD-1312,4/21/2023,Central,Home Office,Office Supplies,1098.2,202.17,9,0.2,Second Class
+ORD-1313,12/7/2023,West,Corporate,Office Supplies,1717.22,291.66,2,0.3,First Class
+ORD-1314,12/31/2023,East,Consumer,Technology,1913.35,560.25,9,0,Standard Class
+ORD-1315,6/4/2023,Central,Corporate,Office Supplies,831.03,138.33,7,0.2,Second Class
+ORD-1316,3/17/2023,East,Consumer,Office Supplies,533.64,157.25,8,0,Same Day
+ORD-1317,6/9/2023,Central,Consumer,Furniture,1950.76,675.19,3,0,Second Class
+ORD-1318,12/20/2023,East,Consumer,Technology,921.09,131.37,6,0.1,Same Day
+ORD-1319,4/14/2023,West,Home Office,Technology,1760.68,438.8,9,0.3,First Class
+ORD-1320,10/27/2023,South,Consumer,Furniture,1900.2,630.07,4,0.2,First Class
+ORD-1321,5/3/2023,South,Consumer,Furniture,1561.86,205.69,9,0.3,Second Class
+ORD-1322,6/21/2023,Central,Corporate,Technology,422.01,33.71,10,0.2,Second Class
+ORD-1323,1/7/2023,Central,Corporate,Furniture,499.27,37.64,1,0,Second Class
+ORD-1324,12/28/2023,Central,Home Office,Technology,638.06,60.98,5,0.2,Standard Class
+ORD-1325,4/26/2023,South,Home Office,Furniture,221.36,56.38,2,0.3,Second Class
+ORD-1326,7/25/2023,Central,Home Office,Furniture,1621.19,495.06,4,0,Second Class
+ORD-1327,12/4/2023,Central,Corporate,Office Supplies,245.61,53.06,8,0.3,Standard Class
+ORD-1328,9/18/2023,West,Consumer,Office Supplies,1785.6,576.81,1,0.2,Standard Class
+ORD-1329,6/26/2023,West,Consumer,Technology,112.72,9.98,6,0.3,Same Day
+ORD-1330,8/18/2023,West,Home Office,Technology,693.04,96.66,1,0.3,Standard Class
+ORD-1331,8/17/2023,East,Consumer,Technology,440.49,102.95,4,0.2,Same Day
+ORD-1332,3/24/2023,West,Home Office,Technology,1500.14,489.89,3,0,Standard Class
+ORD-1333,5/23/2023,West,Consumer,Technology,125.26,12.04,9,0.1,Standard Class
+ORD-1334,10/31/2023,South,Consumer,Office Supplies,1385.6,74.88,6,0.1,Second Class
+ORD-1335,9/14/2023,East,Corporate,Furniture,148.42,20.02,10,0,Same Day
+ORD-1336,11/2/2023,East,Consumer,Office Supplies,1870.73,173.09,9,0.2,Second Class
+ORD-1337,10/9/2023,East,Home Office,Office Supplies,1273.29,161.7,6,0.2,First Class
+ORD-1338,3/23/2023,Central,Corporate,Office Supplies,173.4,19.87,1,0,First Class
+ORD-1339,8/2/2023,South,Consumer,Technology,916.37,117,7,0.2,Standard Class
+ORD-1340,1/4/2023,East,Home Office,Furniture,850,179.54,1,0,First Class
+ORD-1341,4/12/2023,West,Corporate,Furniture,1110.68,325.96,4,0,First Class
+ORD-1342,10/29/2023,West,Home Office,Office Supplies,755.83,40.47,3,0,Standard Class
+ORD-1343,12/20/2023,Central,Home Office,Furniture,1314.08,361.46,3,0.2,Standard Class
+ORD-1344,2/26/2023,South,Consumer,Furniture,1868.26,176.33,2,0.3,First Class
+ORD-1345,5/11/2023,East,Corporate,Technology,363,88.75,1,0.1,First Class
+ORD-1346,12/23/2023,West,Corporate,Office Supplies,1112.89,186.27,2,0.3,First Class
+ORD-1347,4/21/2023,East,Corporate,Office Supplies,1009.88,299.4,9,0.2,First Class
+ORD-1348,12/19/2023,South,Home Office,Technology,1419.17,484.13,9,0.2,Standard Class
+ORD-1349,8/12/2023,West,Consumer,Technology,916.49,187.67,1,0.1,Second Class
+ORD-1350,6/4/2023,South,Home Office,Office Supplies,1102.2,361.07,6,0.3,Same Day
+ORD-1351,10/11/2023,East,Corporate,Office Supplies,1891.1,262.87,9,0.2,Same Day
+ORD-1352,8/2/2023,Central,Corporate,Office Supplies,437.97,129.08,10,0.2,Same Day
+ORD-1353,5/26/2023,West,Corporate,Office Supplies,1634.56,468.05,5,0,First Class
+ORD-1354,11/15/2023,South,Corporate,Office Supplies,1875.97,213.14,9,0.3,Same Day
+ORD-1355,11/17/2023,South,Corporate,Technology,899.9,304.89,5,0.1,Standard Class
+ORD-1356,2/12/2023,South,Consumer,Office Supplies,985.38,75.52,4,0,First Class
+ORD-1357,6/26/2023,South,Home Office,Furniture,851.67,129.17,9,0.1,First Class
+ORD-1358,12/3/2023,South,Home Office,Technology,779.31,223.12,1,0.2,Same Day
+ORD-1359,10/31/2023,East,Consumer,Technology,510.97,72.12,4,0.2,Standard Class
+ORD-1360,5/23/2023,West,Corporate,Office Supplies,158.69,35.95,8,0.3,Same Day
+ORD-1361,12/27/2023,West,Consumer,Furniture,794.62,259.83,7,0.1,Standard Class
+ORD-1362,1/12/2023,Central,Corporate,Furniture,1773.45,469.18,1,0,Standard Class
+ORD-1363,9/4/2023,West,Home Office,Office Supplies,1429.34,285.23,10,0.3,Standard Class
+ORD-1364,12/11/2023,Central,Consumer,Furniture,182.81,63.09,1,0,First Class
+ORD-1365,5/4/2023,Central,Consumer,Office Supplies,1884.02,431.99,8,0.2,Standard Class
+ORD-1366,7/24/2023,South,Home Office,Technology,940.73,219.57,10,0.3,Same Day
+ORD-1367,8/10/2023,Central,Corporate,Furniture,1608.02,164.15,1,0.3,Second Class
+ORD-1368,12/24/2023,Central,Corporate,Office Supplies,1206.57,224.19,1,0,First Class
+ORD-1369,2/17/2023,South,Home Office,Technology,610.96,179.93,7,0,Standard Class
+ORD-1370,6/30/2023,South,Consumer,Office Supplies,1579.42,339.17,3,0.3,Second Class
+ORD-1371,9/26/2023,East,Corporate,Furniture,1792.8,241.69,9,0.3,Second Class
+ORD-1372,1/3/2023,East,Consumer,Technology,1384.05,372.48,10,0.3,Same Day
+ORD-1373,2/19/2023,Central,Home Office,Furniture,889.64,177.76,1,0.2,First Class
+ORD-1374,8/15/2023,East,Corporate,Technology,1522.22,304.34,4,0.2,First Class
+ORD-1375,9/20/2023,West,Home Office,Office Supplies,588.74,82.75,6,0.2,First Class
+ORD-1376,6/28/2023,West,Home Office,Furniture,1220.36,272.18,9,0.1,Same Day
+ORD-1377,3/1/2023,Central,Corporate,Furniture,1912.12,234.7,4,0.3,Second Class
+ORD-1378,10/22/2023,Central,Consumer,Office Supplies,381.41,76.46,6,0.1,Second Class
+ORD-1379,8/11/2023,South,Home Office,Office Supplies,993.6,247.31,5,0.2,First Class
+ORD-1380,8/19/2023,East,Corporate,Office Supplies,1772.36,284.62,7,0.1,Same Day
+ORD-1381,5/22/2023,West,Consumer,Office Supplies,1269.58,205.62,4,0.3,Same Day
+ORD-1382,11/14/2023,Central,Corporate,Office Supplies,1298.81,274,3,0,Second Class
+ORD-1383,11/2/2023,East,Corporate,Office Supplies,1380.56,482.45,3,0.2,Second Class
+ORD-1384,1/22/2023,East,Corporate,Office Supplies,138.88,19.61,4,0.3,First Class
+ORD-1385,11/4/2023,East,Corporate,Office Supplies,510.93,66.5,6,0,Second Class
+ORD-1386,9/17/2023,West,Consumer,Furniture,1910.47,624,4,0.2,Standard Class
+ORD-1387,12/2/2023,South,Corporate,Furniture,298.18,73.13,8,0.1,First Class
+ORD-1388,9/9/2023,South,Corporate,Technology,927.46,178.96,7,0.2,Same Day
+ORD-1389,12/9/2023,East,Home Office,Technology,381.59,41.24,8,0.2,Second Class
+ORD-1390,12/29/2023,West,Consumer,Furniture,749.58,55.41,9,0,Second Class
+ORD-1391,4/17/2023,South,Corporate,Office Supplies,391.23,85.44,4,0.1,Same Day
+ORD-1392,5/24/2023,South,Home Office,Technology,281.75,70.16,9,0,Second Class
+ORD-1393,9/17/2023,South,Home Office,Office Supplies,444.09,60.27,1,0.3,Same Day
+ORD-1394,1/16/2023,East,Corporate,Technology,1670.69,452.35,8,0.3,First Class
+ORD-1395,6/25/2023,West,Home Office,Office Supplies,647.48,104.66,9,0,Second Class
+ORD-1396,11/17/2023,South,Home Office,Furniture,1725.5,540.79,9,0.3,Standard Class
+ORD-1397,8/17/2023,West,Corporate,Technology,1185.81,311.84,10,0.1,Standard Class
+ORD-1398,12/18/2023,South,Home Office,Technology,433.63,83.47,7,0.1,Same Day
+ORD-1399,8/1/2023,Central,Corporate,Technology,1448.75,147.13,10,0,Standard Class
+ORD-1400,8/8/2023,East,Home Office,Technology,1989.84,156.18,1,0.1,First Class
+ORD-1401,6/9/2023,East,Corporate,Office Supplies,394.41,124.83,3,0.3,Second Class
+ORD-1402,12/12/2023,West,Consumer,Office Supplies,919.98,142.83,7,0,Same Day
+ORD-1403,10/1/2023,West,Consumer,Office Supplies,1145.49,375.78,4,0.1,Same Day
+ORD-1404,7/24/2023,East,Consumer,Furniture,197.88,67.68,1,0.2,First Class
+ORD-1405,4/24/2023,Central,Consumer,Office Supplies,901.35,212.78,3,0.1,Same Day
+ORD-1406,2/1/2023,West,Corporate,Office Supplies,628.06,44.42,8,0.1,Second Class
+ORD-1407,11/24/2023,Central,Corporate,Office Supplies,1368.77,263.38,7,0.3,Same Day
+ORD-1408,11/27/2023,Central,Home Office,Technology,711.48,162.91,5,0,Same Day
+ORD-1409,11/18/2023,East,Home Office,Office Supplies,1795.26,269.21,6,0,Same Day
+ORD-1410,9/24/2023,South,Home Office,Office Supplies,1709.55,418.72,6,0.3,First Class
+ORD-1411,12/13/2023,West,Consumer,Technology,799.87,219.57,8,0.1,Standard Class
+ORD-1412,10/26/2023,Central,Home Office,Office Supplies,896.7,238.88,3,0.1,First Class
+ORD-1413,3/31/2023,East,Consumer,Technology,1583.56,344.02,3,0,Same Day
+ORD-1414,10/24/2023,West,Corporate,Office Supplies,196.19,68.01,5,0.1,Standard Class
+ORD-1415,3/11/2023,Central,Consumer,Office Supplies,1102.13,351.06,1,0.2,First Class
+ORD-1416,11/21/2023,South,Corporate,Technology,606.55,180.28,5,0.2,Same Day
+ORD-1417,11/5/2023,Central,Home Office,Technology,814.24,89.9,8,0,Standard Class
+ORD-1418,12/2/2023,South,Corporate,Office Supplies,1066.3,308.4,10,0.2,Standard Class
+ORD-1419,3/7/2023,South,Corporate,Office Supplies,317.99,79.92,1,0.2,First Class
+ORD-1420,6/13/2023,East,Corporate,Furniture,1814.69,568.43,1,0.3,Standard Class
+ORD-1421,9/30/2023,East,Corporate,Office Supplies,274.88,27.35,6,0.3,First Class
+ORD-1422,10/15/2023,East,Consumer,Office Supplies,1860.68,154.67,3,0.2,Same Day
+ORD-1423,9/9/2023,East,Home Office,Furniture,1216.32,112.82,10,0.1,First Class
+ORD-1424,8/16/2023,South,Home Office,Office Supplies,645.14,58.29,4,0,Standard Class
+ORD-1425,10/3/2023,Central,Home Office,Technology,138.72,9.23,5,0,First Class
+ORD-1426,1/8/2023,Central,Home Office,Technology,1851.19,230.84,2,0.1,Same Day
+ORD-1427,10/31/2023,South,Corporate,Furniture,1620.01,215.64,4,0.2,Same Day
+ORD-1428,6/16/2023,Central,Corporate,Technology,248.5,27.24,9,0.3,Second Class
+ORD-1429,9/21/2023,Central,Consumer,Technology,100.45,24.05,2,0.2,Same Day
+ORD-1430,2/27/2023,West,Consumer,Technology,1252.8,328.85,2,0.1,First Class
+ORD-1431,11/20/2023,East,Home Office,Furniture,422.1,40.13,9,0.1,First Class
+ORD-1432,12/30/2023,South,Consumer,Technology,314.37,64.83,4,0.1,Same Day
+ORD-1433,8/16/2023,Central,Consumer,Technology,129.39,26.34,1,0.3,First Class
+ORD-1434,3/7/2023,South,Home Office,Technology,346.95,69.09,1,0.2,First Class
+ORD-1435,11/10/2023,Central,Consumer,Technology,1393.74,471.71,6,0,First Class
+ORD-1436,10/15/2023,South,Corporate,Technology,419.22,95.75,2,0.2,Second Class
+ORD-1437,12/19/2023,Central,Consumer,Office Supplies,1717.94,476.56,1,0.1,Same Day
+ORD-1438,8/16/2023,West,Corporate,Technology,1984.74,114.38,4,0.1,First Class
+ORD-1439,6/24/2023,West,Home Office,Furniture,1611.05,275.76,5,0.2,Standard Class
+ORD-1440,4/29/2023,East,Corporate,Office Supplies,1886.61,410.56,5,0.2,Same Day
+ORD-1441,12/3/2023,Central,Consumer,Technology,1924.04,213.14,9,0.1,Second Class
+ORD-1442,8/25/2023,West,Home Office,Furniture,897.25,94.46,10,0.1,Standard Class
+ORD-1443,6/17/2023,Central,Home Office,Furniture,1296.22,210.6,7,0.3,Standard Class
+ORD-1444,3/2/2023,Central,Corporate,Office Supplies,1686.32,301.54,6,0.2,Second Class
+ORD-1445,7/29/2023,South,Corporate,Technology,721.85,88.03,1,0.1,Standard Class
+ORD-1446,2/14/2023,Central,Home Office,Technology,495.26,74.14,5,0.3,Standard Class
+ORD-1447,5/5/2023,East,Corporate,Technology,1154.23,329.94,2,0,Standard Class
+ORD-1448,7/23/2023,South,Corporate,Furniture,1448.6,275.49,3,0.3,Same Day
+ORD-1449,12/6/2023,South,Consumer,Office Supplies,1359.66,223.53,7,0.1,Same Day
+ORD-1450,11/22/2023,West,Home Office,Office Supplies,150.68,24.4,7,0.1,Second Class
+ORD-1451,3/19/2023,West,Consumer,Office Supplies,792.29,79.77,9,0,Standard Class
+ORD-1452,9/20/2023,Central,Home Office,Furniture,1642.66,524.63,6,0.1,First Class
+ORD-1453,10/31/2023,East,Corporate,Office Supplies,734.31,245,10,0,Second Class
+ORD-1454,8/15/2023,West,Consumer,Technology,1941.87,146.45,7,0.1,Same Day
+ORD-1455,5/12/2023,Central,Home Office,Technology,773.78,107.61,7,0.1,Same Day
+ORD-1456,5/3/2023,West,Corporate,Technology,849.97,236.92,10,0.1,First Class
+ORD-1457,9/29/2023,South,Corporate,Technology,962.64,80.91,7,0,First Class
+ORD-1458,2/12/2023,West,Home Office,Furniture,1351.4,209.55,4,0.3,Same Day
+ORD-1459,5/5/2023,West,Consumer,Technology,182.34,38.34,2,0.1,First Class
+ORD-1460,10/10/2023,Central,Corporate,Office Supplies,722.06,224.14,4,0,Standard Class
+ORD-1461,6/5/2023,West,Corporate,Furniture,1068.74,356.73,8,0.1,First Class
+ORD-1462,1/24/2023,South,Corporate,Furniture,1031.06,360.39,4,0.1,Same Day
+ORD-1463,1/5/2023,Central,Corporate,Office Supplies,1168.47,405.56,8,0.2,Same Day
+ORD-1464,6/17/2023,West,Consumer,Office Supplies,1517.23,467.29,4,0,First Class
+ORD-1465,2/20/2023,South,Consumer,Furniture,784.95,69.29,2,0.1,Standard Class
+ORD-1466,12/4/2023,West,Consumer,Office Supplies,1336.65,239.26,9,0.2,Second Class
+ORD-1467,12/6/2023,East,Consumer,Office Supplies,1333.79,359.57,8,0,Second Class
+ORD-1468,9/17/2023,South,Home Office,Office Supplies,635.46,69.32,9,0.2,Standard Class
+ORD-1469,3/21/2023,West,Corporate,Office Supplies,1658.93,366.44,9,0.1,Second Class
+ORD-1470,2/18/2023,West,Consumer,Office Supplies,1966.27,643.12,2,0,Second Class
+ORD-1471,3/9/2023,South,Consumer,Office Supplies,1173.68,264.97,10,0.1,Standard Class
+ORD-1472,4/4/2023,Central,Corporate,Office Supplies,1311.27,231.57,4,0.3,First Class
+ORD-1473,3/9/2023,South,Consumer,Technology,262.25,60.6,5,0.3,Second Class
+ORD-1474,8/5/2023,Central,Corporate,Office Supplies,1747.61,279.05,5,0,Same Day
+ORD-1475,7/3/2023,South,Consumer,Technology,427.2,127.2,9,0.2,Second Class
+ORD-1476,4/1/2023,West,Corporate,Office Supplies,220.3,31.68,4,0.1,Second Class
+ORD-1477,9/22/2023,South,Corporate,Office Supplies,983.25,105.12,3,0.3,Second Class
+ORD-1478,9/7/2023,South,Home Office,Furniture,1395.24,237.96,1,0,First Class
+ORD-1479,12/23/2023,East,Corporate,Furniture,704.36,144.89,4,0,Standard Class
+ORD-1480,11/6/2023,South,Home Office,Office Supplies,1921.48,426.57,3,0.1,Second Class
+ORD-1481,10/11/2023,South,Home Office,Furniture,1605.84,465.3,9,0,Same Day
+ORD-1482,12/23/2023,Central,Home Office,Furniture,777.22,145.37,5,0.1,First Class
+ORD-1483,7/26/2023,East,Consumer,Office Supplies,1944.88,318.26,4,0.2,Same Day
+ORD-1484,5/13/2023,West,Home Office,Office Supplies,113.15,36.52,10,0.3,First Class
+ORD-1485,3/22/2023,Central,Home Office,Furniture,208.04,12.11,10,0.1,Standard Class
+ORD-1486,8/15/2023,Central,Home Office,Technology,729.63,226.39,1,0.2,Same Day
+ORD-1487,10/22/2023,East,Consumer,Office Supplies,1467.56,145.26,10,0.1,Same Day
+ORD-1488,3/12/2023,Central,Home Office,Technology,1879.6,494.53,3,0.1,First Class
+ORD-1489,3/27/2023,Central,Home Office,Office Supplies,781.92,165.96,1,0.1,Same Day
+ORD-1490,4/8/2023,East,Corporate,Furniture,1606.72,275.42,7,0.1,Standard Class
+ORD-1491,10/29/2023,West,Home Office,Technology,593.1,167.05,2,0.2,Second Class
+ORD-1492,1/15/2023,West,Corporate,Technology,950.04,188.52,8,0.1,Same Day
+ORD-1493,11/10/2023,South,Home Office,Technology,1511.27,179.06,1,0.3,Second Class
+ORD-1494,2/13/2023,South,Consumer,Technology,229.85,29.45,6,0.2,Second Class
+ORD-1495,7/13/2023,South,Home Office,Technology,1233.5,359.96,1,0.2,Same Day
+ORD-1496,8/30/2023,South,Home Office,Technology,274.61,90.07,9,0.2,Same Day
+ORD-1497,11/7/2023,South,Corporate,Furniture,1629.76,152.8,8,0.2,Standard Class
+ORD-1498,8/22/2023,West,Corporate,Furniture,925,89.73,4,0,Same Day
+ORD-1499,8/4/2023,Central,Corporate,Technology,1061.05,275.87,7,0.3,Second Class
